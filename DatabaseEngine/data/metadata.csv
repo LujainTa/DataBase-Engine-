@@ -1,0 +1,9 @@
+
+Table1Name, strTableName, java.lang.string, False, XYZIndex, Octree, null, 12, 
+Table1Name, clust1, java.lang.Int, True, XYZIndex, Octree, 10, null, 
+
+Table2Name, strTableName, java.lang.Double, False, XYZIndex, Octree, null, 12, 
+Table2Name, clust2, java.lang.Int, True, XYZIndex, Octree, 10, null, 
+
+Table3Name, strTableName, java.lang.Double, False, XYZIndex, Octree, null, 12, 
+
